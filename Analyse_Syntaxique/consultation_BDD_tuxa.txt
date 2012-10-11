@@ -1,0 +1,13 @@
+Connexion à la base de données PSQL sur tuxa
+
+- dans un shell sur tuxa.sme.utc
+- psql -h tuxa.sme.utc -U lo17xxx dblo17
+	[password dblo17]
+- \dt -> lister les tables
+- \d email -> liste les colonnes de la table email
+- \q -> quitter
+
+
+
+ssh lo17a012@tuxa.sme.utc
+password = ohod2UNE
